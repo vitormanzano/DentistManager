@@ -1,0 +1,6 @@
+@DentistManager_HostAddress = http://localhost:5003
+
+GET {{DentistManager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
